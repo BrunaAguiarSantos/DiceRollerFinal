@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice roller</string>
+    <string name="roll_label">Roll</string>
+
+    <string name="txtNum">Numero</string>
+    <string name="txtNuM">Digite um numero:</string>
+
+    <string name="btnCadastrar">Click:</string>
+
+</resources>
